@@ -1,0 +1,19 @@
+{
+  "name": "whoaminode",
+  "version": "1.0.0",
+  "description": "Who am I, Node? ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcopollivier/whoaminode.git"
+  },
+  "author": "Marco Paulo Ollivier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcopollivier/whoaminode/issues"
+  },
+  "homepage": "https://github.com/marcopollivier/whoaminode#readme"
+}
